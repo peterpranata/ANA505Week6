@@ -1,1 +1,10 @@
+Results for each algorithm:
+SVM accuracy: 97.3%
+SVM is a type of algorithm that classifies data points into separate hyperplanes, which are basically boundaries to separate and classify what data falls under what class. 
+As you can see, it is the most accurate out of the 3 algorithm we ran and fairly easy to run using the e1071 package.
 
+K Means accuracy: 88.7%
+K-means algorithm is a type of clustering method that groups objects of similar properties together to help classify them.
+
+C50 accuracy: 91.1%
+C5.0 is a type of decision tree that basically groups objects based on a series of logical decisions starting from the root node, and makes its way through the branches, which are decisions that needs to be made according to the properties of the object.
